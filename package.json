@@ -1,0 +1,8 @@
+{
+  "name": "browserslist-config-mobi2go",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mobi2Go/browserslist-config-mobi2go.git",
+  "author": "Nils Citoleux <nils@mobi2go.com>",
+  "license": "MIT"
+}
